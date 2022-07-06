@@ -1,4 +1,4 @@
 - 👊 Hey everyone 
 - 🔨 I'm Cris, Computer Science student at Federal University of Campina Grande.
-- 📫 How to reach me: https://www.linkedin.com/in/cristian-alves-012432213
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cristian-alves-012432213/)
 - ⚡ Fun fact: I love animals, Patty and Peanut Candy.
